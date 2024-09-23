@@ -1,0 +1,1 @@
+print("hello mga potaginano")
